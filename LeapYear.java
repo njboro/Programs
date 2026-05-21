@@ -2,7 +2,7 @@ import java.util.*;
 
 // Find Leap year or not
 
-public class LepaYear {
+public class LeapYear {
     public static void main(String[] args) {
       
       int year = 2003;

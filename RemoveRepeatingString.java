@@ -4,7 +4,7 @@ Write a program to remove consecutive (duplicate) character in a given string.
 Input: It is a sunny day. I feel like swim in the pool. 
 Output: It is a suny day. I fel like swim in the pol. 
 */
-public class Main {
+public class RemoveRepeatingString {
     public static void main(String[] args) {
       
     String str = "It is a sunny day. I feel like swim in the pool.";

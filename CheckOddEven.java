@@ -1,4 +1,6 @@
-public class Demo {
+import java.util.Scanner;
+
+public class CheckOddEven {
 
         public static void main(String[] args) {
               

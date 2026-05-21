@@ -2,7 +2,7 @@ import java.util.*;
 
 // Addition of Two Number
 
-public class AdditionTwoNumber {
+public class AdditionOfTwoNumber {
     public static void main(String[] args) {
       
       Scanner scanner = new Scanner(System.in);
